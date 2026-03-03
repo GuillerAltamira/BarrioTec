@@ -172,23 +172,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laboratorio A\\.nuget\\packages\\": {},
-    "D:\\Programas\\Visual Studio\\Componentes, Herramientas y SDK\\NuGetPackages": {}
+    "C:\\Users\\laboratorio a\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Actividad_7\\TiendaApp\\TiendaApp.csproj",
+      "projectUniqueName": "E:\\actividad_7\\BarrioTec\\TiendaApp.csproj",
       "projectName": "TiendaApp",
-      "projectPath": "E:\\Actividad_7\\TiendaApp\\TiendaApp.csproj",
-      "packagesPath": "C:\\Users\\laboratorio A\\.nuget\\packages\\",
-      "outputPath": "E:\\Actividad_7\\TiendaApp\\obj\\",
+      "projectPath": "E:\\actividad_7\\BarrioTec\\TiendaApp.csproj",
+      "packagesPath": "C:\\Users\\laboratorio a\\.nuget\\packages\\",
+      "outputPath": "E:\\actividad_7\\BarrioTec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Programas\\Visual Studio\\Componentes, Herramientas y SDK\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\laboratorio A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\laboratorio a\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -197,6 +197,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
