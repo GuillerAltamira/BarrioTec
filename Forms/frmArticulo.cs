@@ -19,7 +19,7 @@ namespace TiendaApp.Forms {
         }
 
         private void InicializarComponentes() {
-            this.Text = "Gestión de Artículos";
+            this.Text = "Gestión de Artículos.";
             this.Width = 600;
             this.Height = 400;
 
